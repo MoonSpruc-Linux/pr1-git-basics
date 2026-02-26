@@ -15,5 +15,5 @@ local opts = {}
 
 require("core.keybindings")
 require("core.copyclasses")
-require("lazy").setup("plugins")
+-- require("lazy").setup("plugins")
 require("core.vim_options")
